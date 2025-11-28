@@ -1,6 +1,6 @@
 ## SumiCare
 
-[Sumi.care](sumi.care/oss) OSS Projects
+[Sumi.care](https://sumi.care/oss) OSS Projects
 
  - [terraform-kubernetes-modules](https://github.com/sumicare/terraform-kubernetes-modules) - [reference cloud native architecture](https://github.com/sumicare/terraform-kubernetes-modules/blob/master/RCNA.md) terraform modules (WIP)
  - [opentofu-cmp](https://github.com/sumicare/opentofu-cmp) - OpenTofu [configuration management plugin](https://argo-cd.readthedocs.io/en/stable/operator-manual/config-management-plugins) (CMP) for ArgoCD (WIP)
