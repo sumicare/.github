@@ -1,12 +1,18 @@
 ## SumiCare
 
-<!--
+[Sumi.care](sumi.care/oss) OSS Projects
 
-**Here are some ideas to get you started:**
+ - [terraform-kubernetes-modules](https://github.com/sumicare/terraform-kubernetes-modules) - reference cloud native architecture terraform modules (WIP)
+ - [opentofu-cmp](https://github.com/sumicare/opentofu-cmp) - OpenTofu [configuration management plugin](https://argo-cd.readthedocs.io/en/stable/operator-manual/config-management-plugins) (CMP) for ArgoCD (WIP)
+ - [terraform-gcp-atlantis](https://github.com/sumicare/terraform-gcp-atlantis) - GCP [Atlantis](https://www.runatlantis.io/) module (WIP)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Virtual Kubelet](https://virtual-kubelet.io/) providers:
+ - [virtualkubelet-provider-vastai](https://github.com/sumicare/virtualkubelet-provider-vastai) - [Vast.AI](https://vast.ai) provider (WIP)
+ - [virtualkubelet-provider-tensordock](https://github.com/sumicare/virtualkubelet-provider-tensordock) - [TensorDock](https://tensordock.com/) provider (WIP)
+ - [virtualkubelet-provider-hyperstack](https://github.com/sumicare/virtualkubelet-provider-hyperstack) - [HyperStack](https://hyperstack.cloud/) provider (WIP)
+ - [virtualkubelet-provider-runpod](https://github.com/sumicare/virtualkubelet-provider-hyperstack) - [RunPod](https://runpod.io/) provider (WIP)
+
+OpenTofu providers:
+ - [kubernetes-autoscaling](https://github.com/sumicare/terraform-provider-kubernetes-autoscaling) - custom [Kamaji](https://kamaji.clastix.io/) OpenTofu autoscaling
+ - [provider-gitea](https://github.com/sumicare/terraform-provider-gitea) - [Gitea](https://about.gitea.com/) provider
+ - [provider-kind](https://github.com/sumicare/terraform-provider-kind) - [Kind](https://kind.sigs.k8s.io/) provider
