@@ -13,6 +13,6 @@
  - [virtualkubelet-provider-runpod](https://github.com/sumicare/virtualkubelet-provider-hyperstack) - [RunPod](https://runpod.io/) provider (WIP)
 
 [OpenTofu](https://opentofu.org/) providers:
- - [kubernetes-autoscaling](https://github.com/sumicare/terraform-provider-kubernetes-autoscaling) - custom [Kamaji](https://kamaji.clastix.io/) OpenTofu autoscaling
+ - [tofu-slicer](https://github.com/sumicare/tofu-slicer) - custom [Kamaji](https://kamaji.clastix.io/) OpenTofu autoscaling
  - [provider-gitea](https://github.com/sumicare/terraform-provider-gitea) - [Gitea](https://about.gitea.com/) provider
  - [provider-kind](https://github.com/sumicare/terraform-provider-kind) - [Kind](https://kind.sigs.k8s.io/) provider
