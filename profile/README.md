@@ -2,8 +2,8 @@
 
 [Sumi.care](https://sumi.care/oss) OSS Projects
 
- - [Careplane](https://github.com/sumicare/careplane) Backstage
- - [tofuslicer](https://github.com/sumicare/tofuslicer) all-in-one Kubernetes (K8s) autoscaling infrastructure toolkit
+ - [CarePlane](https://github.com/sumicare/careplane) Backstage
+ - [TofuSlicer](https://github.com/sumicare/tofuslicer) all-in-one Kubernetes (K8s) autoscaling infrastructure toolkit
  - [terraform-kubernetes-modules](https://github.com/sumicare/terraform-kubernetes-modules) - [reference cloud native architecture](https://github.com/sumicare/terraform-kubernetes-modules/blob/master/RCNA.md) terraform modules for tofuslicer
  - [opentofu-cmp](https://github.com/sumicare/opentofu-cmp) - OpenTofu [configuration management plugin](https://argo-cd.readthedocs.io/en/stable/operator-manual/config-management-plugins) for ArgoCD
  - [terraform-gcp-atlantis](https://github.com/sumicare/terraform-gcp-atlantis) - GCP [Atlantis](https://www.runatlantis.io/) module
