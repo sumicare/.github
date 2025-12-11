@@ -9,6 +9,7 @@
  - [terraform-gcp-atlantis](https://github.com/sumicare/terraform-gcp-atlantis) - GCP [Atlantis](https://www.runatlantis.io/) module
  - [universal-asdf-plugin](https://github.com/sumicare/universal-asdf-plugin) - [ASDF plugins](https://github.com/asdf-vm/asdf-plugins) implemented as golang binary
  - [teerpc](https://github.com/sumicare/teerpc) - [tRPC](https://trpc.io/) support for Golang and Rust
+
 [OpenTofu](https://opentofu.org/) providers:
  - [provider-gitea](https://github.com/sumicare/terraform-provider-gitea) - [Gitea](https://about.gitea.com/) provider
  - [provider-kind](https://github.com/sumicare/terraform-provider-kind) - [Kind](https://kind.sigs.k8s.io/) provider
