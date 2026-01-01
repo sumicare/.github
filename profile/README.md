@@ -4,7 +4,8 @@
 
  - [CarePlane](https://github.com/sumicare/careplane) Backstage
  - [TofuSlicer](https://github.com/sumicare/tofuslicer) - all-in-one Kubernetes autoscaling toolkit
- - [kube-metrics-rs](https://github.com/sumicare/kube-metrics-rs) - all-in-one Kubernetes metrics solution, unifies and extends [node_exporter](https://github.com/prometheus/node_exporter), [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) and [metrics-server](https://github.com/kubernetes-sigs/metrics-server)
+ - [kube-metrics-rs](https://github.com/sumicare/kube-metrics-rs) - all-in-one Kubernetes metrics solution, <br/>
+   unifies and extends [node_exporter](https://github.com/prometheus/node_exporter), [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) and [metrics-server](https://github.com/kubernetes-sigs/metrics-server)
  - [smithy-rs](https://github.com/sumicare/smithy-rs) - native rust [smithy](https://smithy.io/) 
  - [terraform-kubernetes-modules](https://github.com/sumicare/terraform-kubernetes-modules) - [reference cloud native architecture](https://github.com/sumicare/terraform-kubernetes-modules/blob/master/RCNA.md) terraform modules for tofuslicer
  - [opentofu-cmp](https://github.com/sumicare/opentofu-cmp) - OpenTofu [configuration management plugin](https://argo-cd.readthedocs.io/en/stable/operator-manual/config-management-plugins) for ArgoCD
