@@ -13,7 +13,7 @@ Business Platform and tools inspired by traditional Japanese flower-and-bird art
  - **[Jiyūka](https://github.com/sumicare/jiyuka)** — Custom virtual kubelet implementation for third-party GPU hosting providers
  - **[Haboku](https://github.com/sumicare/haboku)** — Collection of cloud-native architecture OpenTofu Modules
 
-## Infrastructure & Tooling
+### Infrastructure & Tooling
 
 - [smithy-rs](https://github.com/sumicare/smithy-rs) — Native Rust implementation of [Smithy](https://smithy.io/).
 - [opentofu-cmp](https://github.com/sumicare/opentofu-cmp) — OpenTofu [configuration management plugin](https://argo-cd.readthedocs.io/en/stable/operator-manual/config-management-plugins) for ArgoCD.
@@ -21,7 +21,7 @@ Business Platform and tools inspired by traditional Japanese flower-and-bird art
 - [universal-asdf-plugin](https://github.com/sumicare/universal-asdf-plugin) — [ASDF plugins](https://github.com/asdf-vm/asdf-plugins) implemented as Golang binary.
 - [teerpc-go](https://github.com/sumicare/teerpc-go) / [teerpc-rs](https://github.com/sumicare/teerpc-rs) — Internal [tRPC](https://trpc.io/) scaffolds for Golang and Rust.
 
-## OpenTofu Providers
+### OpenTofu Providers
 
 - [provider-kacho](https://github.com/sumicare/opentofu-provider-kacho) — [Sumi.care](https://sumi.care) [Kachō](https://sumi.care/kacho) provider.
 - [provider-gitea](https://github.com/sumicare/opentofu-provider-gitea) — [Gitea](https://about.gitea.com/) provider.
