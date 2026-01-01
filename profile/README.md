@@ -2,7 +2,7 @@
 
 [Sumi.care](https://sumi.care/oss) OSS Projects
 
-[Kachō](https://github.com/sumicare/kacho) Backstage Ecosystem <br/>
+**[Kachō](https://github.com/sumicare/kacho)** Backstage Ecosystem <br/>
 Business Platform and tools inspired by traditional Japanese flower-and-bird art (花鳥).
 
  - **[Suzuri](https://github.com/sumicare/suzuri)** — Custom ERP Platform
