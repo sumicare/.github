@@ -7,7 +7,7 @@ Business Platform and tools inspired by traditional Japanese flower-and-bird art
 
  - **[Suzuri](https://github.com/sumicare/suzuri)** — Custom ERP Platform
  - **[Rikka](https://github.com/sumicare/rikka)** — All-in-one Kubernetes metrics solution, unifies and extends [node_exporter](https://github.com/prometheus/node_exporter), [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) and [metrics-server](https://github.com/kubernetes-sigs/metrics-server)
- - **[Shōka](https://github.com/sumicare/shoka)** — Resource cost and usage reporter, uses [smithy-rs](https://github.com/sumicare/smithy-rs) to generate custom Cloud API clients and unified usage/cost reporters
+ - **[Shōka](https://github.com/sumicare/shoka)** — Resource cost and usage reporter, uses [smithy-rs](https://github.com/sumicare/smithy-rs) as a base for streamline usage/cost reporters
  - **[Nageire](https://github.com/sumicare/nageire)** — Cost/availability/demand predictor, basically Torch [Forecasting models](https://pytorch-forecasting.readthedocs.io/en/v1.4.0/models.html) port to [burn-rs](https://burn.dev/)
  - **[Moribana](https://github.com/sumicare/moribana)** — Production-ready cluster autoscaler, simplifies Kubernetes autoscaling with OpenTofu
  - **[Jiyūka](https://github.com/sumicare/jiyuka)** — Custom virtual kubelet implementation for third-party GPU hosting providers
