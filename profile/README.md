@@ -22,6 +22,6 @@ Business Platform and tools inspired by traditional Japanese flower-and-bird art
 
 ### OpenTofu Providers
 
-- [provider-kacho](https://github.com/sumicare/opentofu-provider-kacho) — [Sumi.care](https://sumi.care) [Kachō](https://sumi.care/kacho) provider.
+- [provider-kacho](https://github.com/sumicare/opentofu-provider-kacho) — Sumicare [Kachō](https://sumi.care/kacho) provider.
 - [provider-gitea](https://github.com/sumicare/opentofu-provider-gitea) — [Gitea](https://about.gitea.com/) provider.
 - [provider-kind](https://github.com/sumicare/opentofu-provider-kind) — [Kind](https://kind.sigs.k8s.io/) provider.
