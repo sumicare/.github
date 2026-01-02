@@ -16,10 +16,9 @@ Business Platform and tools inspired by traditional Japanese flower-and-bird art
 ### Infrastructure & Tooling
 
 - [smithy-rs](https://github.com/sumicare/smithy-rs) — Native Rust implementation of [Smithy](https://smithy.io/).
+- [universal-asdf-plugin](https://github.com/sumicare/universal-asdf-plugin) — [ASDF plugins](https://github.com/asdf-vm/asdf-plugins) implemented as Golang binary.
 - [opentofu-cmp](https://github.com/sumicare/opentofu-cmp) — OpenTofu [configuration management plugin](https://argo-cd.readthedocs.io/en/stable/operator-manual/config-management-plugins) for ArgoCD.
 - [terraform-gcp-atlantis](https://github.com/sumicare/terraform-gcp-atlantis) — GCP [Atlantis](https://www.runatlantis.io/) module.
-- [universal-asdf-plugin](https://github.com/sumicare/universal-asdf-plugin) — [ASDF plugins](https://github.com/asdf-vm/asdf-plugins) implemented as Golang binary.
-- [teerpc-go](https://github.com/sumicare/teerpc-go) / [teerpc-rs](https://github.com/sumicare/teerpc-rs) — Internal [tRPC](https://trpc.io/) scaffolds for Golang and Rust.
 
 ### OpenTofu Providers
 
